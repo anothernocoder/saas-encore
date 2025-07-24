@@ -1,3 +1,0 @@
-ClerkSecretKey : "sk_test_hw9qThnQhruYtX8XfpbiLHxrd2vYAF8C5CgRkUdEE3"
-StripeSecretKey : "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"
-StripeWebhookSigningSecret : "whsec_QLqaKhiACXerFiFJocUaK23Xykt7HobC"
